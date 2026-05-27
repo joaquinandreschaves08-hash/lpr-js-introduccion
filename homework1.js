@@ -3,7 +3,7 @@
 //Grupo: 606
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
-
+67
 // Trabajo Practico N°1
 
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
